@@ -21,3 +21,5 @@ This project is made for **learning and practicing** front-end web development. 
 - Enhancing HTML & CSS skills
 - Recreating real-world UI designs
 - Exploring responsive web layout techniques
+
+**Disclaimer:** This UltraEdit clone was developed for educational purposes only. It is not affiliated with UltraEdit in any way and does not collect or store any user data.
